@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "1",
+    "name": "Govind Gaur",
+    "position": "CEO, Founder",
+    "instagram": "https://www.instagram.com/govind.gaur10/",
+    "linkedin": "https://www.linkedin.com/in/govind-gaur-a84171171/",
+    "image": "./asset/govind.jpg",
+    "description": "Govind is a visionary travelpreneur with an experience of leading more than 200 community trips. He's fond of all kinds of voyages, yet his favourite are motorbiking expeditions, hence he accounts for 30000kms of extreme rides.He can hold a conversation around business,human values and almost everything one can think of. The man knows how to get down to work and party, equally well."
+  },
+  {
+    "_id": "2",
+    "name": "Madhusudan Jaju",
+    "position": "Head of Marketing",
+    "instagram": "https://www.instagram.com/paidleaves/",
+    "linkedin": "https://www.linkedin.com/in/jaju-madhu/",
+    "image": "./asset/jaju.jpg",
+    "description": "Madusudhan is a passionate learner, and an instinctive marketer. He has led more than 40 trips and has taken his hot wheels on a ride of total 50,000kms . He has a habit of finding a path even where it seems impossible, that is why he has been to over 30 treks, some well known, others unexplored. Being an avid reader, he is the perfect motivational speaker for the team."
+  },
+  {
+    "_id": "3",
+    "name": "Chirag Jain",
+    "position": "Head of Operations",
+    "instagram": "https://www.instagram.com/chirag.jainnn/",
+    "linkedin": "https://www.linkedin.com/in/chirag-jain-wanderon/",
+    "image": "./asset/govind.jpg",
+    "description": "Chirag is a strong analyst of travel operations, and thus heads the responsibility of running the entire show. Just like Sindbad the Sailor, he finds out the most interesting experiences and tests them out before presenting to the community. With so many duties to perform, it is hard to believe that he managed to code the html and css for this website!"
+  },
+  {
+    "_id": "4",
+    "name": "Ravi Khokher",
+    "position": "Head of Technology",
+    "instagram": "",
+    "linkedin": "",
+    "image": "./asset/golu.jpg",
+    "description": "Ravi is a multitasker, problem solver and trivia king! The go-to man for all our technical needs, we sometimes wonder if he can give out solutions faster than google! On days he is not coding, he is seen traveling, leading group tours and riding bikes."
+  },
+  {
+    "_id": "5",
+    "name": "Sandeep Kumar",
+    "position": "Head of Ground Operations",
+    "instagram": "",
+    "linkedin": "",
+    "image": "./asset/sandy.jpeg",
+    "description": "Sandy is a team captain by day and a guitarist by night. He has traveled with over 10000 people, leading 350 groups and has completed 30+ treks in the last 5 years. He understands the smallest of requirements of his fellow travelers and manages the same. Blessed with a soulful voice, we think Sandeep must be God’s own Child!"
+  },
+  {
+    "_id": "6",
+    "name": "Nancy Sahota",
+    "position": "Head of Content",
+    "instagram": "",
+    "linkedin": "",
+    "image": "./asset/nancy.jpeg",
+    "description": "Nancy is the bridge between our E-audience and the company. With the goal to humanize the brand, she heads the content team of super artistic people, and has a natural impulse of adding a creative spin to even the most regular of things. Sometimes we wonder if her secret lies in the cup of tea, which for sure she’s addicted to."
+  },
+  {
+    "_id": "7",
+    "name": "Gaurav Singh",
+    "position": "Director of Community Experiences",
+    "instagram": "",
+    "linkedin": "",
+    "image": "./asset/tekri.jpeg",
+    "description": "With abundant experience of outdoor leading in over 50+ trips, Gaurav is the one who runs a one man show in managing the operations of all group departures! The leader of the most important clan, Gaurav personally trains and monitors the trip captains in his pool. He also has a sharp eye for unmatched talent, and hence he is responsible for scouting the right outdoor leaders for WanderOn."
+  },
+  {
+    "_id": "8",
+    "name": "Varsha Shrivastava",
+    "position": "Director of Personalised Experiences",
+    "instagram": "",
+    "linkedin": "",
+    "image": "./asset/varsha.jpeg",
+    "description": "The woman behind the smoothest customised trips, she can arrange an effortless experience for you pretty much in any corner of the world! Domestic and international destinations are no bar for her and with her well established network and management, she's one of the strongest pillars of team operations."
+  },
+  {
+    "_id": "9",
+    "name": "Madhuri Mulwani",
+    "position": "Head of Sales",
+    "instagram": "",
+    "linkedin": "",
+    "image": "./asset/madhuri.jpg",
+    "description": "Madhuri is our sales expert who nails the game of communication. She believes it is important to speak, but more important to listen. That’s why she has curated more than 500 personalised itineraries. Talking to her is like talking to a friend who’s always up for a travel plan."
+  }
+]
